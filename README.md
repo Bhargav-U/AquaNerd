@@ -1,11 +1,15 @@
-# AquaNerd
-A smart plug and play device for aquarium management and maintence.
-come with features like:
-1.auto water topoff
-2.autofedding 
-3.ph,ammonina,nitrite,nitrate deletction
-4.fertilizer dosage
-5.auto day and night cycle
-6.temperature monitoring and heater management
-7.automated water change plugin
-etc
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1mgukm_2PBtEMJjXelvOW6qiW20oZGaRH" >
+</p>
+
+### A smart plug and play device for aquarium management and maintainence
+
+
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1FUFTdCVgV2P4JI_k6D3wiTj1BvGX-e17">
+</p>
+
+# Some of AquaNerd features,
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1GFCev7aQq36gfQ0LuodI1fnpr2jsnmyM">
+</p>
